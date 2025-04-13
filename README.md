@@ -1,7 +1,7 @@
 # bookStoreDB_project
 
 
-Our goal was to build a relational database that stores information about the bookstore's operations, including *** books, authors, customers, orders, shipping, and more. *** We were tasked to create a database that efficiently stores all necessary data and allows for quick retrieval and analysis. This was our step-by-step approach to achieving this:
+Our goal was to build a relational database that stores information about the bookstore's operations, including ***books, authors, customers, orders, shipping, and more.*** We were tasked to create a database that efficiently stores all necessary data and allows for quick retrieval and analysis. This was our step-by-step approach to achieving this:
 
 1. We effectively created an Entity Relation diagram using Draw.io in order to display the relationships between every table in the bookStoreDB_project database. every column that is in the tables, and primary and foreign keys established.
 
