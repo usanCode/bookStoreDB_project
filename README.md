@@ -9,7 +9,7 @@ Our goal was to build a relational database that stores information about the bo
 
 3. We applied security practices to control access to the database by setting up user groups and roles. We achieved this tools such as CREATE USER, and GRANT. We granted the administrators with all privileges on the bookstore database and granted the users with the ability to SELECT only in the database.
 
-**<ins>Outcome</ins>:**
+## **<ins>Outcome</ins>:**
 - Designing and implementing a MYSQL database for a real-world case.
 - Creating tables with the optimal schema and data types for the database.
 - Managing database access through user groups and roles to ensure security.
